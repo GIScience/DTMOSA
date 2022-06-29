@@ -1,2 +1,3 @@
 # Twitter Mining for OSM Semantic Annotation (DTMOSA)
-master_thesis_code
+
+Each of the tools is documented in its own directory.
